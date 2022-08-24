@@ -1,11 +1,11 @@
 const config = {
-  to: "stori@storicard.com",
+  to: "email@address.com",
   smtp: {
-    host: "smtp.mailtrap.io",
-    port: 2525,
+    host: "smtp.server.com",
+    port: 25,
     auth: {
-      user: "c306fc28e5784c", // mailtrap username
-      pass: "672b648fa8884c", // mailtrap password
+      user: "",
+      pass: "",
     },
   },
 };
